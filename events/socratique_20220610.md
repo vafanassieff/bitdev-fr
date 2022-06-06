@@ -8,13 +8,13 @@
 
 ## Privacy et Sécurité
 
-* (Silent Payment)[https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-March/020180.html]
-    * (tutorial)[https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-May/020513.html]
+* [Silent Payment](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-March/020180.html)
+    * [tutorial](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-May/020513.html)
 
 ## Recherches
 
-* (Musig2)[]
-    * Implémentation en Go ((btcd)[https://github.com/btcsuite/btcd/pull/1820])
+* [Musig2]()
+    * Implémentation en Go ([btcd](https://github.com/btcsuite/btcd/pull/1820))
 
 ## Activité des principaux repo
 
@@ -22,8 +22,8 @@
 
 ## Événements et podcasts
 
-* (Conférence Building on Taproot à LA)[https://bitdevsla.org/pleb-fi-1/]
-* (Unconference Azores)[https://btcazores.com/#/]
+* [Conférence Building on Taproot à LA](https://bitdevsla.org/pleb-fi-1/)
+* [Unconference Azores](https://btcazores.com/#/)
 
 ## Minage
 
