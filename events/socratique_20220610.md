@@ -30,6 +30,7 @@
 ## Lightning
 
 * [CLBoss](https://github.com/ZmnSCPxj/clboss)
+* [Route Blinding](https://github.com/lightning/bolts/pull/765)
 
 ## Activité des principaux repo
 
