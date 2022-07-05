@@ -9,6 +9,7 @@
 ## Données sur le réseau
 
 * Nouvel [ATH](https://nitter.net/SamouraiDev/status/1542511600334057473) de la "Unspent Capacity" de Whirlpool
+* L'utilisation de Taproot [ne décolle toujours pas](https://nitter.net/BitMEXResearch/status/1539890378253402117)
 
 ## Privacy et Sécurité
 
