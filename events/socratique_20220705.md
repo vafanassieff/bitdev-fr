@@ -17,6 +17,14 @@
 
 ## Recherches
 
+* [Musig2]()
+    * Implémentation en Go ([btcd](https://github.com/btcsuite/btcd/pull/1820))
+* [Simple Multiparty Schorr signing](https://eprint.iacr.org/2022/374.pdf)
+* [package relay](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-May/020493.html)
+* CTV
+    * [Activation](https://bitcoinops.org/en/newsletters/2022/04/27/)
+    * [Un vault avec CTV](https://github.com/jamesob/simple-ctv-vault)
+
 ## Lightning
 
 * [LN dev meeting](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-June/003600.html)
@@ -24,6 +32,8 @@
     * Musig2 and recursive Musig
     * Upgrade to gossip
     * blinded path
+* [Route Blinding](https://github.com/lightning/bolts/pull/765)
+
 
 ## Activité des principaux repo
 
