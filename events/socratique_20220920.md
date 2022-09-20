@@ -17,6 +17,12 @@ make
 
 ## Lightning Blinded routes 
 
+- [BOLT](https://github.com/t-bast/lightning-docs/blob/master/lightning-privacy.md)
+- [schéma](https://github.com/ellemouton/onion/blob/master/docs/routeBlinding.pdf)
+
+## Wallet Labels Export Format
+
+[mailing list](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-August/020887.html)
 
 
 
