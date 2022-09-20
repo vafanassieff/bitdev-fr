@@ -17,7 +17,7 @@ make
 
 ## Lightning Blinded routes 
 
-- [BOLT](https://github.com/t-bast/lightning-docs/blob/master/lightning-privacy.md)
+- [BOLT](https://github.com/lightning/bolts/blob/route-blinding/proposals/route-blinding.md)
 - [schéma](https://github.com/ellemouton/onion/blob/master/docs/routeBlinding.pdf)
 
 ## Wallet Labels Export Format
