@@ -18,3 +18,8 @@
 
 - [mailing list](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-September/020937.html)
 - [Optech](https://bitcoinops.org/en/newsletters/2022/10/05/)
+
+## Bitcoin Inquisition
+
+- [AJ Town's email](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-September/020921.html)
+- [repo](https://github.com/bitcoin-inquisition/bitcoin/)
