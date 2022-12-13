@@ -15,3 +15,7 @@ https://github.com/brilliancebitcoin/for-loops-in-bitcoin-script/blob/main/READM
 ## Ephemeral Anchors
 
 https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-November/021222.html
+
+## Lightning channel jamming attack
+
+## Dual funding channel
